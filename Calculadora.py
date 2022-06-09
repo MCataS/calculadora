@@ -6,7 +6,6 @@ class SolNum:
         self.num1 = None
         self.num2 = None
         self.num3 = None
-       
 
     def valores(self):
 
@@ -63,4 +62,3 @@ miCal.operacion()
 """ print(operacion()) """
 """como vuelvo a solicitar el número """
 print("Fin del proceso")
-#prueba actualización
